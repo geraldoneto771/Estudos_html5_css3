@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(38, 207, 156);
+    font: 13pt Arial;
+}
+
+main {
+    background-color: rgb(206, 137, 137);
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.529);
+}
+
+h1 {
+    color: rgb(91, 39, 112);
+}
+
+h2 {
+    color: rgb(18, 128, 201);
+}
+
+a{
+    color: rgb(34, 34, 34);
+    font-weight: bolder;
+}
+
+a:hover {
+    color: rgb(100, 11, 184);
+    text-decoration: none;
+}
